@@ -1,2 +1,3 @@
-# my-python-package-template
-My python package template, with Readme, travis, reqs and tree structure
+# My python package template
+
+With Readme, gitignore, travis, reqs and tree structure
