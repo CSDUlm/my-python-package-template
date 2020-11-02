@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My usual private notebooks directory
+
+personal_experiments/
