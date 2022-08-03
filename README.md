@@ -1,8 +1,8 @@
 # My python package template
 
-![GitHub Workflow Build Status](https://github.com/zaccharieramzi/my-python-package-template/workflows/Continuous%20testing/badge.svg)
+![GitHub Workflow Build Status](https://github.com/CSDUlm/my-python-package-template/workflows/Continuous%20testing/badge.svg)
 
-With Readme, gitignore, travis, GitHub workflow, reqs and tree structure
+With Readme, gitignore, GitHub workflow, reqs and tree structure
 
 TODO to make the repo viable:
 - [ ] change the name of the `my_package` folder
