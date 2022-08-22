@@ -23,6 +23,8 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=install_requires,
-    tests_require=['pytest'],
+    extras_require={
+        'test': ['pytest'],
+    },
     python_requires='>=3.6',
 )
