@@ -15,7 +15,7 @@ setuptools.setup(
     description="My Python package template.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/zaccharieramzi/my-python-package-template",
+    url="https://github.com/CSDUlm/my-python-package-template",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
